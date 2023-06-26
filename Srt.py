@@ -83,7 +83,7 @@ def generate_subtitle_pattern(input_file, output_file):
 
     print(f'Subtitle pattern generated and saved to {output_file}.')
 
-input_file = 'visao_geral_ecs.txt'
-output_file = 'visao_geral_ecs2.txt'
+input_file = 'file.txt'
+output_file = 'filepattern.srt'
 
 generate_subtitle_pattern(input_file, output_file)
